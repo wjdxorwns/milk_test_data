@@ -2,7 +2,7 @@
 
 **사용툴 colab**
 
-**pyton**
+**python**
 
 
 1. 데이터 처리
@@ -35,6 +35,6 @@ p-value를 통해 각 변수의 유의미성을 평가.
 6. 시각화
 matplotlib.pyplot: 모델의 성능을 시각화하는 데 사용. 여러 k 값에 대해 훈련 정확도와 테스트 정확도를 비교하는 그래프를 생성.
 
-PPt
+**PPT**
 
 https://docs.google.com/presentation/d/1CmexNFEkOCnVJsDuY-iU2xzWMFiBPxsg/edit?usp=drive_link&ouid=112062542611161741390&rtpof=true&sd=true
